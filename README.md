@@ -4,4 +4,5 @@ https://www.sciencedirect.com/science/article/pii/S2590123025025770?via%3Dihub#s
 # Overview
 # The repository contains the code files for the paper titled "Advanced attention-driven deep learning architectures for multi-depth soil temperature prediction". 
 If you use this code, please cite the original paper as: 
-<p> Mohammed, S., Arshad, S., Ocwa, A., Al-Dalahmeh, M., Aldabbas, A., Alzoubi, M. M., Vad, A., & Harsányi, E. (2025). Advanced attention-driven deep learning architectures for multi-depth soil temperature prediction. Results in Engineering, 27, 106508. https://doi.org/https://doi.org/10.1016/j.rineng.2025.106508 
+# citation
+Mohammed, S., Arshad, S., Ocwa, A., Al-Dalahmeh, M., Aldabbas, A., Alzoubi, M. M., Vad, A., & Harsányi, E. (2025). Advanced attention-driven deep learning architectures for multi-depth soil temperature prediction. Results in Engineering, 27, 106508. https://doi.org/https://doi.org/10.1016/j.rineng.2025.106508 
